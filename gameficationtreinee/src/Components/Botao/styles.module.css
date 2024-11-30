@@ -1,0 +1,8 @@
+.botaoContainer{
+    width: 241px;
+    height: 64px;
+    border: none;
+    border-radius: 15px;
+    background-color: var(--branco);
+    font-size: 24px;
+}

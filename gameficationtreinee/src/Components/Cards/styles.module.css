@@ -1,0 +1,43 @@
+
+.containerEspada:hover{
+    transform: scale(1.1);
+    transition: 0.7s;
+    
+}
+.cardImgContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 269px;
+    height: 408px;
+    border-radius: 35px 35px 0 0 ;
+}
+.cardDownContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 269px;
+    height: 139px;
+    border-radius: 0 0 35px 35px;
+    background-color: var(--branco);
+}
+
+.cardDownContainer div{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px
+}
+.Verde{
+    background-color: #008722;
+}
+
+.Vermelha{
+    background-color: #B70E0E;
+}
+.Azul{
+    background-color: #2F23AD;
+
+}
+.Roxo{
+    background-color: #A312BC;
+}

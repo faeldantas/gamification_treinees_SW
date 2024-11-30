@@ -1,0 +1,27 @@
+.campoTextoContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.campoLabel{
+    font-size: 20px;
+    
+}
+
+.campoInput{
+    width: 594px;
+    height: 75px;
+    border: none ;
+    border-radius: 15px;
+    padding-left: 52px;
+    font-size: 24px;
+}
+.containerInput{
+    display: flex;
+    align-items: center;
+}
+
+.imageIcon{
+    position: absolute;
+    padding-left: 20px;
+}

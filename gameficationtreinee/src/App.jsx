@@ -1,12 +1,16 @@
 import './App.css'
+import AppRotas from './Routers/router'
+
+
+
 
 function App() {
+  
+       
 
 
   return (
-    <>
-      <h1>Gameficação dos Treinees</h1>
-    </>
+    <AppRotas/>
   )
 }
 
