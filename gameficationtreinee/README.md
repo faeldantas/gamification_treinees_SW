@@ -25,7 +25,7 @@ Um projeto de gamificação baseado no universo de Star Wars, desenvolvido com R
 3. **Inicie o JSON Server:**
    ```bash
    json-server --watch db.json
-4. **Inicie o JSON Server:**
+4. **Inicie o Projeto:**
    ```bash
    npm run dev
 
