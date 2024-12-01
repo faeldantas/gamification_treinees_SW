@@ -29,8 +29,6 @@ Um projeto de gamificação baseado no universo de Star Wars, desenvolvido com R
    ```bash
    npm run dev
 
-
-
 O projeto estará disponível em: http://localhost:5173 (ou outra porta especificada pelo Vite).
 
 
