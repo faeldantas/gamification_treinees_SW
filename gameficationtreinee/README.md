@@ -1,12 +1,37 @@
-# React + Vite
+# 🎮 Gamificação Star Wars
 
-Gameficação Star Wars
+Um projeto de gamificação baseado no universo de Star Wars, desenvolvido com React + Vite.
 
-Como execultar o front-end:
+## 🚀 Tecnologias Utilizadas
 
-faça um git clone do repositorio 
-depois faça um npm install para instalar todas as dependencias 
-apos a instalação antes de fazer um npm run dev faça um json-server --watch db.json 
-pois estou simulando uma api com o Json Server 
-Se você ja criou a api do Json Server agora pode fazer o npm run dev
+| Tecnologia  | Descrição                           |
+|-------------|-------------------------------------|
+| React       | Biblioteca para construção de UI   |
+| Vite        | Ferramenta de build rápida         |
+| JSON Server | Simulação de API REST              |
+
+
+---
+
+## 📦 Como Configurar e Executar
+
+1. **Clone o Repositório:**
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   cd nome-do-repositorio
+2. **Instale as dependências:**
+   ```bash
+   npm install
+3. **Inicie o JSON Server:**
+   ```bash
+   json-server --watch db.json
+4. **Inicie o JSON Server:**
+   ```bash
+   npm run dev
+
+
+
+O projeto estará disponível em: http://localhost:5173 (ou outra porta especificada pelo Vite).
+
+
 
